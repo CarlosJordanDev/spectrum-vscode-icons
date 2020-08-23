@@ -2,7 +2,7 @@
 
 A light/dark low contrast file icon set for VS Code. A minimal icon theme is also included that only differentiates files and folders.
 
-![Spectrum VS Code theme](https://raw.githubusercontent.com/alexperronnet/spectrum-vscode-theme/master/static/spectrum-icons-preview.png)
+![Spectrum VS Code theme](https://raw.githubusercontent.com/alexperronnet/spectrum-vscode-icons/master/static/spectrum-icons-preview.png)
 
 ## Install
 
