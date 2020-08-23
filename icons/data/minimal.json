@@ -1,0 +1,31 @@
+{
+  "hidesExplorerArrows": true,
+  "iconDefinitions"    : {
+    "_file_dark": {
+      "iconPath": "../svg/dark/default.svg"
+    },
+    "_file_light": {
+      "iconPath": "../svg/light/default.svg"
+    },
+    "_folder_dark": {
+      "iconPath": "../svg/dark/folder.svg"
+    },
+    "_folder_light": {
+      "iconPath": "../svg/light/folder.svg"
+    },
+    "_folder_open_dark": {
+      "iconPath": "../svg/dark/folder-open.svg"
+    },
+    "_folder_open_light": {
+      "iconPath": "../svg/light/folder-open.svg"
+    }
+  },
+  "file"          : "_file_dark",
+  "folder"        : "_folder_dark",
+  "folderExpanded": "_folder_open_dark",
+  "light"         : {
+    "file"          : "_file_light",
+    "folder"        : "_folder_light",
+    "folderExpanded": "_folder_open_light"
+  }
+}
